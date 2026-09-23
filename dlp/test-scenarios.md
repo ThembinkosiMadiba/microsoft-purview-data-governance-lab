@@ -1,4 +1,4 @@
-# DLP Test Scenarios — CAPTCHA Technologies
+# DLP Test Scenarios • CAPTCHA Technologies
 
 This document records DLP policy test execution against the **CAPTCHA - Customer Data Protection** policy (see `dlp/dlp-policy.md` for the policy's design and rule logic). All tests were performed against fictional data only.
 
