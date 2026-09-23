@@ -1,6 +1,6 @@
 # CAPTCHA Technologies - Enterprise Data Governance, Information Protection & DLP Lab
 
-A hands-on Microsoft security/GRC portfolio project simulating the work of a Junior GRC / Security Analyst at a fictional company, **CAPTCHA Technologies**. Built entirely on a free Microsoft Entra ID tenant plus a Microsoft 365 E5 trial (no Azure paid resources, no pay-as-you-go billing enabled), this project takes a data governance program from zero to a documented, tested, evidenced state — following the same path a real analyst would.
+A hands-on Microsoft security/GRC portfolio project simulating the work of a Junior GRC / Security Analyst at a fictional company, **CAPTCHA Technologies**. Built entirely on a free Microsoft Entra ID tenant plus a Microsoft 365 E5 trial (no Azure paid resources, no pay-as-you-go billing enabled), this project takes a data governance program from zero to a documented, tested, evidenced state following the same path a real analyst would.
 
 > All company names, employees, and data in this project are fictional. No real personal information is used anywhere in this repository.
 
