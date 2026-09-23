@@ -1,4 +1,4 @@
-# Lessons Learned — CAPTCHA Technologies Data Governance Lab
+# Lessons Learned • CAPTCHA Technologies Data Governance Lab
 
 This document captures genuine technical findings and troubleshooting encountered while building this project — kept separate from the main configuration documentation because these are things that surprised or required investigation, not steps that went as planned on the first attempt. A real GRC/security analyst should expect and be able to work through exactly this kind of friction when standing up new tooling.
 
