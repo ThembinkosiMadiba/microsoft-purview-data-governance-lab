@@ -1,4 +1,4 @@
-# Role Design - CAPTCHA Technologies Access Management
+# Role Design • CAPTCHA Technologies Access Management
 
 ## Purpose
 
