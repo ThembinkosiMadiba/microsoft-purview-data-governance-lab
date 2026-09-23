@@ -1,4 +1,4 @@
-# Business Scenario — CAPTCHA Technologies
+# Business Scenario • CAPTCHA Technologies
 
 ## Company overview
 
