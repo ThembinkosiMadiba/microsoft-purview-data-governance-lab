@@ -1,4 +1,4 @@
-# DLP Policy — CAPTCHA Technologies Customer Data Protection
+# DLP Policy • CAPTCHA Technologies Customer Data Protection
 
 ## Business requirement
 
