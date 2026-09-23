@@ -1,4 +1,4 @@
-# Data Classification Model — CAPTCHA Technologies
+# Data Classification Model • CAPTCHA Technologies
 
 ## Purpose
 
