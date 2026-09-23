@@ -1,4 +1,4 @@
-# Investigation Report — INC-001
+# Investigation Report • INC-001
 
 ## Incident summary
 
