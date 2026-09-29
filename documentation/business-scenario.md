@@ -1,4 +1,4 @@
-# Business Scenario • CAPTCHA Technologies
+# Business Scenario CAPTCHA Technologies
 
 ## Company overview
 
@@ -24,11 +24,11 @@ CAPTCHA Technologies is organized into five departments:
 | Tracy Madiba | IT | IT Administrator |
 | Ayanda Maseko | Security/GRC | GRC Analyst |
 
-(Note: the IT department user was originally planned as "Sipho Ndlovu" but was consolidated into an existing test account, "Tracy Madiba," during hands-on account management — see `documentation/lessons-learned.md`.)
+(Note: the IT department user was originally planned as "Sipho Ndlovu" but was consolidated into an existing test account, "Tracy Madiba," during hands-on account management, see `documentation/lessons-learned.md`.)
 
 ## The business problem
 
-Like many growing organizations, CAPTCHA Technologies began with **no formal data governance program**. Its Microsoft 365 tenant started with a single Entra ID Free license, no sensitivity labels, no DLP policies, and no structured access control beyond default settings — a realistic starting point for a company that has grown faster than its security practices.
+Like many growing organizations, CAPTCHA Technologies began with **no formal data governance program**. Its Microsoft 365 tenant started with a single Entra ID Free license, no sensitivity labels, no DLP policies, and no structured access control beyond default settings a realistic starting point for a company that has grown faster than its security practices.
 
 This creates concrete, statable business risk:
 
@@ -58,8 +58,8 @@ This project simulates the work of a Junior GRC / Security Analyst tasked with d
 
 **Business risk → Data governance → Identity & access management → Data classification → Information protection → DLP → Audit → Investigation → Risk assessment → Security controls → Testing → Evidence → GRC recommendations**
 
-Each phase of this project is documented not just as "what was clicked," but as a deliberate control decision made in response to a specific, statable business risk — consistent with how a real GRC function would justify its program to leadership or an auditor.
+Each phase of this project is documented not just as "what was clicked," but as a deliberate control decision made in response to a specific, statable business risk consistent with how a real GRC function would justify its program to leadership or an auditor.
 
 ## Scope and constraints
 
-This lab was built entirely within a Microsoft 365 E5 trial license (30 days, activated at $0 cost) layered on top of a free Microsoft Entra ID tenant. No Azure paid resources (VMs, storage accounts, SQL databases) were provisioned, and no Azure pay-as-you-go billing was enabled — deliberately, to keep the project cost-free and reproducible by anyone with access to an M365 trial. Where a Purview feature required Azure billing (e.g., Endpoint DLP, Defender for Cloud Apps instances), it was explicitly scoped out and documented as a known limitation rather than enabled.
+This lab was built entirely within a Microsoft 365 E5 trial license (30 days, activated at $0 cost) layered on top of a free Microsoft Entra ID tenant. No Azure paid resources (VMs, storage accounts, SQL databases) were provisioned, and no Azure pay-as-you-go billing was enabled deliberately, to keep the project cost-free and reproducible by anyone with access to an M365 trial. Where a Purview feature required Azure billing (e.g., Endpoint DLP, Defender for Cloud Apps instances), it was explicitly scoped out and documented as a known limitation rather than enabled.
