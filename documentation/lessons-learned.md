@@ -30,7 +30,7 @@ Across this project, several distinct Purview components exhibited different pro
 |---|---|---|
 | Sensitivity label policy → visible in Office apps | Up to 24 hours | ~1 hour |
 | DLP policy → synced to locations | Up to 2 hours (up to 24h for full user/group sync) | Confirmed complete at ~2 hours |
-| Label usage analytics report | Hourly refresh (stated) | Still 0 items shortly after labeling — expected, given refresh cadence |
+| Label usage analytics report | Hourly refresh (stated) | Still 0 items shortly after labeling expected, given refresh cadence |
 | DLP policy simulation "Items for review" / Alerts | Not explicitly stated | Still empty over an hour after a confirmed policy match (visible live in Outlook) |
 | Unified Audit Log search | Not explicitly stated for new tenants | Returned "Failed to load data" for roughly the first day after tenant/license activation; became functional afterward without further intervention confirmed by a successful search returning 5 real events, including a `captcha.admin` sign-in with source IP address |
 | DLP admin incident report **email** (vs. the in-portal dashboard) | Not explicitly stated | Delivered within minutes of the triggering event, with full structured detail (Report Id, matched conditions, severity, sender/recipient) notably faster and more complete than the Purview web UI's own "Items for review" / "Alerts" dashboard, which was still empty at the same point in time |
