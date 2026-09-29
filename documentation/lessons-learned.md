@@ -20,7 +20,7 @@ Standard Microsoft Entra ID Security groups the type created by default through 
 
 ## 4. The "Block external sharing" DLP action has an undocumented-in-UI structural requirement
 
-When first configuring the DLP policy's action to "Block only people outside your organization," policy creation failed with a specific client error: the rule must include an explicit **"Content is shared with people outside your organization"** condition, joined with **AND**, as the first condition in the rule — simply selecting the blocking action is not sufficient on its own. Once identified, the fix was straightforward, and arguably produced a more precise, more clearly-scoped rule than the original attempt.
+When first configuring the DLP policy's action to "Block only people outside your organization," policy creation failed with a specific client error: the rule must include an explicit **"Content is shared with people outside your organization"** condition, joined with **AND**, as the first condition in the rule simply selecting the blocking action is not sufficient on its own. Once identified, the fix was straightforward, and arguably produced a more precise, more clearly-scoped rule than the original attempt.
 
 ## 5. Propagation and reporting delays are inconsistent across Purview components, and each should be verified independently
 
